@@ -1493,13 +1493,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/qs@npm:^6.9.17":
-  version: 6.9.18
-  resolution: "@types/qs@npm:6.9.18"
-  checksum: 10c0/790b9091348e06dde2c8e4118b5771ab386a8c22a952139a2eb0675360a2070d0b155663bf6f75b23f258fd0a1f7ffc0ba0f059d99a719332c03c40d9e9cd63b
-  languageName: node
-  linkType: hard
-
 "@types/resize-observer-browser@npm:^0.1.7":
   version: 0.1.11
   resolution: "@types/resize-observer-browser@npm:0.1.11"
@@ -4288,19 +4281,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+"qs-esm@npm:^7.0.2":
+  version: 7.0.3
+  resolution: "qs-esm@npm:7.0.3"
+  checksum: 10c0/76a4f6ea21f976f023995c413719e743b67ba93445be3812d9cc83152a46ee0de37354483742898d3bd29754a22ba044ca5133daa5217a0b677934d49c5310da
+  languageName: node
+  linkType: hard
+
 "qs@npm:^6.9.0":
   version: 6.14.0
   resolution: "qs@npm:6.14.0"
   dependencies:
     side-channel: "npm:^1.1.0"
   checksum: 10c0/8ea5d91bf34f440598ee389d4a7d95820e3b837d3fd9f433871f7924801becaa0cd3b3b4628d49a7784d06a8aea9bc4554d2b6d8d584e2d221dc06238a42909c
-  languageName: node
-  linkType: hard
-
-"qs@npm:~6.9.7":
-  version: 6.9.7
-  resolution: "qs@npm:6.9.7"
-  checksum: 10c0/d0274b3c2daa9e7b350fb695fc4b5f7a1e65e266d5798a07936975f0848bdca6d7ad41cded19ad4af6a6253b97e43b497e988e728eab7a286f277b6dddfbade4
   languageName: node
   linkType: hard
 
@@ -4492,7 +4485,7 @@ __metadata:
     vue-clipboard3: "npm:^2.0.0"
     vue-eslint-parser: "npm:^10.2.0"
     vuedraggable: "npm:^4.1.0"
-    ziggy-js: "npm:2.5.3"
+    ziggy-js: "npm:2.6.0"
   languageName: unknown
   linkType: soft
 
@@ -5274,12 +5267,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ziggy-js@npm:2.5.3":
-  version: 2.5.3
-  resolution: "ziggy-js@npm:2.5.3"
+"ziggy-js@npm:2.6.0":
+  version: 2.6.0
+  resolution: "ziggy-js@npm:2.6.0"
   dependencies:
-    "@types/qs": "npm:^6.9.17"
-    qs: "npm:~6.9.7"
-  checksum: 10c0/46db139458a6df4ab509a108884da552e28360b790daf2595151295ccb494c3ef74a096dda8af4634a033afde9be6b8c16f7832607660e99a49e09b1dd1b7371
+    qs-esm: "npm:^7.0.2"
+  checksum: 10c0/ca52932e84a89b18c67a067305f71d608929284daf23bc1b19c4aff268dc456ea3d1eec7dd9db6cd0eea0d6aac5d1d090d85901dd1b4f59ce2a30136135a574a
   languageName: node
   linkType: hard
