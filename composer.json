@@ -56,7 +56,7 @@
     "brianium/paratest": "^7.0",
     "fakerphp/faker": "^1.23",
     "larastan/larastan": "^3.1",
-    "laravel-lang/common": "^6.0",
+    "laravel-lang/common": "^6.8.0",
     "laravel/pint": "^1.13",
     "laravel/sail": "^1.41",
     "laravel/telescope": "^5.10",
