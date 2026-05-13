@@ -19,7 +19,7 @@
     "doctrine/dbal": "^4.1",
     "guzzlehttp/guzzle": "^7.4",
     "http-interop/http-factory-guzzle": "^1.2",
-    "inertiajs/inertia-laravel": "^2.0",
+    "inertiajs/inertia-laravel": "^v3.0.0-beta5",
     "knuckleswtf/scribe": "^5.1",
     "laravel-notification-channels/telegram": "^6.0",
     "laravel/fortify": "^1.25",
