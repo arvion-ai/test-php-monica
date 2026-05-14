@@ -61,7 +61,7 @@
     "laravel/sail": "^1.41",
     "laravel/telescope": "^5.10",
     "mockery/mockery": "^1.6",
-    "nunomaduro/collision": "^8.6",
+    "nunomaduro/collision": "^v8.9.4",
     "phpstan/extension-installer": "^1.4",
     "phpunit/phpunit": "^11.0",
     "roave/security-advisories": "dev-master",
