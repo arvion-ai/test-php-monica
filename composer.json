@@ -43,7 +43,7 @@
     "socialiteproviders/keycloak": "^5.3",
     "socialiteproviders/linkedin": "^5.0",
     "socialiteproviders/microsoft-azure": "^5.1",
-    "stevebauman/location": "^7.0",
+    "stevebauman/location": "^v7.6.3",
     "thecodingmachine/safe": "^3.0",
     "tightenco/ziggy": "2.5.3",
     "typesense/typesense-php": "^5.0",
