@@ -16,7 +16,7 @@
     "asbiin/laravel-localizer": "^4.0",
     "asbiin/laravel-sentry-tunnel": "^2.0",
     "asbiin/laravel-webauthn": "^5.3",
-    "doctrine/dbal": "^4.1",
+    "doctrine/dbal": "^4.4.3",
     "guzzlehttp/guzzle": "^7.4",
     "http-interop/http-factory-guzzle": "^1.2",
     "inertiajs/inertia-laravel": "^2.0",
