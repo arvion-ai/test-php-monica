@@ -46,7 +46,7 @@
     "stevebauman/location": "^7.0",
     "thecodingmachine/safe": "^3.0",
     "tightenco/ziggy": "2.5.3",
-    "typesense/typesense-php": "^5.0",
+    "typesense/typesense-php": "^v5.2.0",
     "uploadcare/uploadcare-php": "^4.1"
   },
   "require-dev": {
