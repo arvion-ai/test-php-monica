@@ -47,7 +47,7 @@
     "thecodingmachine/safe": "^3.0",
     "tightenco/ziggy": "2.5.3",
     "typesense/typesense-php": "^5.0",
-    "uploadcare/uploadcare-php": "^4.1"
+    "uploadcare/uploadcare-php": "^v4.2.1"
   },
   "require-dev": {
     "amirami/localizator": "^0.14.0-alpha",
